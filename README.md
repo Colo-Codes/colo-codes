@@ -1,3 +1,5 @@
+![alt text](https://github.com/Colo-Codes/colo-codes/blob/main/55628EB3-D8EC-4C0C-A7CA-CFAE36865529-325-0000000127A56B4E.jpeg?raw=true)
+
 ### Hi there 👋
 
 <!--
