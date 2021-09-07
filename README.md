@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript, in depth.
-- 👯 I’m looking to collaborate on any HTML, CSS or JavaScript related project.
+- 🌱 I’m currently learning ReactJS, in depth.
+- 👯 I’m looking to collaborate on any HTML, CSS or JavaScript and ReactJS related project.
 - 🤔 I’m looking for help with finding cool JavaScript projects to build.
 - 💬 Ask me about my journey: a 40-years old engineer shifting his career to web development.
 - 📫 How to reach me: damian.demasi.1@gmail.com
