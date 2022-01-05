@@ -13,5 +13,7 @@
 - 🤔 I’m looking for help with finding cool JavaScript projects to build.
 - 💬 Ask me about my journey: a 40-years old engineer shifting his career to web development.
 - 📫 How to reach me: damian.demasi.1@gmail.com
+- 📝 Visit [my blog](https://blog.damiandemasi.com/).
+- 💼 Take a look at [my portfolio](https://www.damiandemasi.com/).
 
-- 🐦 Follow me on Twitter: https://twitter.com/DamianDemasi
+- 🐦 Follow me on [Twitter](https://twitter.com/DamianDemasi).
