@@ -16,4 +16,7 @@
 - 📝 Visit [my blog](https://blog.damiandemasi.com/).
 - 💼 Take a look at [my portfolio](https://www.damiandemasi.com/).
 
-- 🐦 Follow me on [Twitter](https://twitter.com/DamianDemasi).
+<!-- - 🐦 Follow me on [Twitter](https://twitter.com/DamianDemasi). -->
+
+<p align="left"> <a href="https://twitter.com/damiandemasi" target="blank"><img src="https://img.shields.io/twitter/follow/damiandemasi?logo=twitter&style=for-the-badge" alt="damiandemasi" /></a> </p>
+
