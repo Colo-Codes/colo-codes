@@ -16,8 +16,6 @@
 
 <!-- - 🐦 Follow me on [Twitter](https://twitter.com/DamianDemasi). -->
 
-<p align="left"> <a href="https://twitter.com/damiandemasi" target="blank"><img src="https://img.shields.io/twitter/follow/damiandemasi?logo=twitter&style=for-the-badge" alt="damiandemasi" /></a> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/damian-demasi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="damiandemasi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/damiandemasi" target="blank"><img src="https://img.shields.io/twitter/follow/damiandemasi?logo=twitter&style=for-the-badge" alt="damiandemasi" /></a> <a href="https://www.linkedin.com/in/damian-demasi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="damiandemasi" /></a> </p>
 
 
